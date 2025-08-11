@@ -1,0 +1,6 @@
+Bernardo;15
+Jota;22
+Bernardo;13
+Josa;20
+maria;85
+P;1
